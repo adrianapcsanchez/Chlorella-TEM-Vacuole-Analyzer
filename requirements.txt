@@ -1,0 +1,10 @@
+numpy
+opencv-python
+tifffile
+imagecodecs
+pytesseract
+pandas
+openpyxl
+python-pptx
+Pillow
+matplotlib
