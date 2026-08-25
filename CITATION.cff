@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite this repository and the associated article when available."
+message: "If you use this software, please cite this archived v1.0.0 release and the associated article when available."
 title: "TEM Vacuole Area Analyzer"
 type: software
 authors:
@@ -7,6 +7,7 @@ authors:
     given-names: "Adriana"
 repository-code: "https://github.com/adrianapcsanchez/Chlorella-TEM-Vacuole-Analyzer"
 url: "https://github.com/adrianapcsanchez/Chlorella-TEM-Vacuole-Analyzer"
+doi: "10.5281/zenodo.22093026"
 license: MIT
 version: "1.0.0"
 date-released: 2026-08-24
