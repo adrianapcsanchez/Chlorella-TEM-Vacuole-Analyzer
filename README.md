@@ -244,7 +244,7 @@ The repository also includes a `CITATION.cff` file so that GitHub can provide a 
 
 Status: **unpublished**.
 
-The repository should be updated with the final article citation and DOI after publication.
+The repository will be updated with the final article citation and DOI after publication.
 
 ## License
 
