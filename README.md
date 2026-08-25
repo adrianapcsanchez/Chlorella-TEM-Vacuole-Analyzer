@@ -22,6 +22,14 @@ For each reviewed cell, the software reports:
 
 The software also creates annotated images and a PowerPoint report for visual quality control.
 
+## Example of the analysis
+
+The example below shows a representative *Chlorella vulgaris* TEM image before and after analysis with the TEM Vacuole Area Analyzer.
+
+![Representative TEM vacuole analysis](examples/tem_vacuole_analyzer_example.png)
+
+**Representative analysis example.** (A) Original TEM image of a *Chlorella vulgaris* cell. (B) Reviewed segmentation generated using TEM Vacuole Area Analyzer. The **green contour** represents the detected cell boundary, while **red contours** represent the reviewed vacuole boundaries. Scale bar: 0.5 µm.
+
 ## Analysis workflow
 
 ```text
