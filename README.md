@@ -32,7 +32,7 @@ The example below shows a representative *Chlorella vulgaris* TEM image before a
 ```table
 Results example: 
 Cells: 1
-N vacuoles: 2
+N vacuoles: 3
 Cell area µm²: 5.255
 Ratio vacuole/cell: 54%
 ```
