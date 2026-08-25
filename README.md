@@ -29,7 +29,13 @@ The example below shows a representative *Chlorella vulgaris* TEM image before a
 
 ![Representative TEM vacuole analysis](examples/tem_vacuole_analyzer_example.png)
 
-Results example: Cells: 1; N vacuoles: 2; Cell area µm²: 5.255; Ratio vacuole/cell: 54%
+```table
+Results example: 
+Cells: 1
+N vacuoles: 2
+Cell area µm²: 5.255
+Ratio vacuole/cell: 54%
+```
 
 **Representative analysis example.** (A) Original TEM image of a *Chlorella vulgaris* cell. (B) Reviewed segmentation generated using TEM Vacuole Area Analyzer. The **green contour** represents the detected cell boundary, while **red contours** represent the reviewed vacuole boundaries. Scale bar: 0.5 µm.
 
