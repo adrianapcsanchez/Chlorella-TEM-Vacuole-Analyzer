@@ -99,7 +99,7 @@ The program is designed for grayscale TEM images. TIFF files containing microsco
 From a terminal opened in the repository folder:
 
 ```bash
-python tem_vacuole_area_analyzer.py
+python tem_vacuole_analyzer.py
 ```
 
 The program opens a folder-selection window. Select the folder containing the TEM images. A parameter window is then displayed. The default values correspond to the dataset for which the workflow was developed, and parameters can be adjusted without editing the source code.
