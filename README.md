@@ -1,13 +1,13 @@
 # TEM Vacuole Area Analyzer
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22093026.svg)](https://doi.org/10.5281/zenodo.22093026)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22113727.svg)](https://doi.org/10.5281/zenodo.22113727)
 
 A semi-automatic Python workflow for **cell segmentation, vacuole review, and vacuole-area quantification in transmission electron microscopy (TEM) images of *Chlorella vulgaris*.**
 
 **Author:** Adriana Pereira C. Sánchez  
 **Repository:** `Chlorella-TEM-Vacuole-Analyzer`  
 **Version:** 1.0.0  
-**Archived release:** Zenodo, DOI: [10.5281/zenodo.22093026](https://doi.org/10.5281/zenodo.22093026)  
+**Archived release:** Zenodo, DOI: [10.5281/zenodo.22113727](https://doi.org/10.5281/zenodo.22113727)  
 **License:** MIT  
 **Associated manuscript:** *Microfluidic separation for microalgae: what matters is the inside of the cell*  
 **Manuscript status:** Unpublished
@@ -243,9 +243,9 @@ A tagged release should be used for the version associated with the manuscript.
 
 If you use this software, please cite the archived software release:
 
-> **Pereira C. Sánchez, A. (2026).** *TEM Vacuole Area Analyzer* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22093026
+> **Pereira C. Sánchez, A. (2026).** *TEM Vacuole Area Analyzer* (Version 1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.22113727
 
-**DOI:** [10.5281/zenodo.22093026](https://doi.org/10.5281/zenodo.22093026)
+**DOI:** [10.5281/zenodo.22113727](https://doi.org/10.5281/zenodo.22113727)
 
 The repository also includes a `CITATION.cff` file so that GitHub can provide a **Cite this repository** option.
 
